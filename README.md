@@ -1,7 +1,8 @@
 # UCLA MLIS Portfolio Template
-This repository is intended to provide a template for a digital portfolio satisfying the requirements of the UCLA MLIS program. Feel free to use it in parts or as a whole!
+This project is intended to provide a template for a digital portfolio satisfying the requirements of the UCLA MLIS program, but feel free to use it however you like!
 
-## Project setup
+## Using the template
+Making use of the template will require some knowledge of HTML and a familiarity with the command-line.
 ```
 npm install
 ```
