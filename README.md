@@ -34,4 +34,6 @@ npm run build
 This will build the project for production, creating a ```dist``` directory with all the material from the ```src``` directory bundled up for deployment to the web.
 
 ### Deploying
-After building your portfolio, you can deploy it to GitHub Pages. Follow the instructions [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) to set up a GitHub Pages site, then push your portfolio's ```dist``` directory to the GitHub repository for your GitHub Pages site. It might take a few minutes, but your portfolio site should now be deployed on GitHub pages (normally at <username>.github.io)!
+After building your portfolio, you can deploy it to GitHub Pages (or anyway else you'd like).
+
+Follow the instructions [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) to set up a GitHub Pages site, then push your portfolio's ```dist``` directory to the GitHub repository for your GitHub Pages site. It might take a few minutes, but your portfolio site should now be deployed on GitHub pages (normally at <username>.github.io)!
