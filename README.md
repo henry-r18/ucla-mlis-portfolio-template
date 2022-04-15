@@ -9,7 +9,7 @@ Making use of the template will require knowledge of web development technologie
 This guide will go through an example of how to build your own portfolio from this template using the popular IDE [Visual Studio Code](https://code.visualstudio.com/). The guide assumes you have Visual Studio Code installed on your computer, and that you've got the [GitHub integration](https://code.visualstudio.com/docs/editor/github) set up. You'll also need [Node.js](https://nodejs.org/en/download/) installed.
 
 ### Getting started
-After [cloning this project](https://code.visualstudio.com/docs/editor/github#_setting-up-a-repository) and getting it set up in Visual Studio Code, open a new terminal (shortcut ```ctrl + shift + ````) and run
+After [cloning this project](https://code.visualstudio.com/docs/editor/github#_setting-up-a-repository) and getting it set up in Visual Studio Code, open a new terminal (shortcut ctrl + shift + `) and run
 ```
 npm install
 ```
